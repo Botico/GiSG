@@ -9,3 +9,7 @@ To run and create your own scripts, run gisg in the directory that houses your m
 
 ## Foregn Languages
 There are two reasons GiSG is called GiSG. See acro.txt for the first reason. The second reason is that it is Gaelic for fish. Fish can overcome the odds, like swimming up a water fall, like how GiSG can overcome the odds of installing smoothly on windows (also mac and linux, but mainly windows). 
+
+
+### Please
+Please do not remove the "Instaler By GiSG" message. There is nothing stoping you, but I hope that you dont!
